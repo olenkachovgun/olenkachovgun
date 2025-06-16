@@ -13,6 +13,7 @@
 **Інструменти:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 ---
+
 ## 🚀 ПРОЄКТИ
 
 ### 💸🧾 [Spendy – Personal Finance Tracker](https://project-5-frontend-pink.vercel.app/login)
