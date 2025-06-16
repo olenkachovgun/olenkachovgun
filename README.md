@@ -36,17 +36,17 @@ Fullstack застосунок для обліку витрат. Авториз�
 👉 [Код на GitHub](https://github.com/olenkachovgun/RentalCar)
 
 ## 📖📞 [Phonebook](https://goit-react-hw-08-smoky-ten.vercel.app/)
-`React`, Redux Toolkit, `REST API`.
 Книга Контактів" - веб-застосунок для зручного управління вашими особистими контактами.
+`React`, Redux Toolkit, `REST API`.
 👉 [Код на GitHub](https://github.com/olenkachovgun/Phonebook-react)
 
-## 🎬 [Filmoteka – пошук фільмів через API](https://goit-react-hw-05-seven-sable.vercel.app/)
-Пошук фільмів за жанрами та ключовими словами.  
+## 🎬 [Filmoteka](https://goit-react-hw-05-seven-sable.vercel.app/)
+Пошук фільмів за жанрами та ключовими словами через API  
 `React`, `REST API`, `Axios`, `CSS Modules`  
 👉 [Код на GitHub](https://github.com/olenkachovgun/goit-react-hw-05-movies)
 
-## 🎨🖼️ [Image-search App] (https://goit-typescript-hw-02-gules-nu.vercel.app/)
-Пошук зображень за ключовими словами.
+## 🎨🖼️ [Image-search App](https://goit-typescript-hw-02-gules-nu.vercel.app/)
+Пошук зображень за ключовими словами через API.
 `React`, `REST API`, `TypeScript`
 👉 [Код на GitHub](https://github.com/olenkachovgun/Image-search-TypeScript)
 
