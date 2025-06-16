@@ -30,12 +30,14 @@
 
 Fullstack застосунок для обліку витрат. Авторизація, додавання транзакцій, статистика.  
 `React`, `Redux`, `Node.js`, `MongoDB`, `Swagger`  
-👉 [Код на GitHub](https://github.com/olenkachovgun/project-5-team-spendy)
+
+👉 [Код на GitHub](https://github.com/sonyaaa-h/project-5-frontend))
 
 ### 🎬 [Filmoteka – пошук фільмів через API](https://goit-react-hw-05-seven-sable.vercel.app/)
 
 Пошук фільмів за жанрами та ключовими словами.  
 `React`, `REST API`, `Axios`, `CSS Modules`  
+
 👉 [Код на GitHub](https://github.com/olenkachovgun/goit-react-hw-05-movies)
 
 ### 🎨 [WebStudio](https://olenkachovgun.github.io/goit-markup-hw-06/)
