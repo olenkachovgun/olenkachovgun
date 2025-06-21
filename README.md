@@ -1,8 +1,8 @@
-# Привіт! Я — Olena Chovhun 👩‍💻
+# Привіт! Я — Олена Човгун 👩‍💻
 
-💡 Junior Fullstack Developer з бекграундом в IT та освіті. Працюю з **JavaScript**, **React**, **Node.js**, **MongoDB**, створюю повноцінні web-застосунки з нуля. Маю досвід командної роботи за SCRUM, у ролі розробника та Scrum Master.
+💡 Fullstack Developer з бекграундом в IT та освіті. Cтворюю повноцінні web-застосунки з нуля. Маю досвід командної роботи за SCRUM, у ролі розробника та Scrum Master.
 
-### 💻 Стек технологій
+# 💻 Стек технологій
 
 **🌐 Frontend:**  
 
@@ -18,31 +18,26 @@
 
 ----
 
-### 🚀 ПРОЄКТИ
+# 🚀 ПРОЄКТИ
 
 ## 💸🧾 [Spendy – Personal Finance Tracker](https://project-5-frontend-pink.vercel.app/login)
 Fullstack застосунок для обліку витрат. Авторизація, додавання транзакцій, статистика.  
 `React`, `Redux`, `Node.js`, `MongoDB`, `Swagger`  
 👉 [Код на GitHub](https://github.com/sonyaaa-h/project-5-frontend)
 
-## 🎨 [WebStudio](https://olenkachovgun.github.io/goit-markup-hw-06/)
-Веб-сайт для вигаданої студії.  
-`HTML`, `CSS`, `Responsive Design`. 
-👉 [Код на GitHub](https://github.com/olenkachovgun/goit-markup-hw-06)
-
 ## 🚘[RentalCar](https://rental-car-sandy.vercel.app/)
 Фронтенд частиною веб-додатку "RentalCar", призначеного для оренди автомобілів зі зручним інтерфейсом для перегляду доступних автомобілів, їх фільтрації, додавання до обраних та бронювання.
-`React`, Redux Toolkit, `REST API`, `Axios`, `Formik`.
+`React`, Redux Toolkit, `REST API`, `Axios`, `Formik`, `Vite`
 👉 [Код на GitHub](https://github.com/olenkachovgun/RentalCar)
 
 ## 📖📞 [Phonebook](https://goit-react-hw-08-smoky-ten.vercel.app/)
 Книга Контактів" - веб-застосунок для зручного управління вашими особистими контактами.
-`React`, Redux Toolkit, `REST API`.
+`React`, Redux Toolkit, `REST API`, `Vite`
 👉 [Код на GitHub](https://github.com/olenkachovgun/Phonebook-react)
 
 ## 🎬 [Filmoteka](https://goit-react-hw-05-seven-sable.vercel.app/)
 Пошук фільмів за жанрами та ключовими словами через API  
-`React`, `REST API`, `Axios`, `CSS Modules`  
+`React`, `REST API`, `Axios`, `CSS Modules`,, `Vite`  
 👉 [Код на GitHub](https://github.com/olenkachovgun/goit-react-hw-05-movies)
 
 ## 🎨🖼️ [Image-search App](https://goit-typescript-hw-02-gules-nu.vercel.app/)
@@ -50,15 +45,23 @@ Fullstack застосунок для обліку витрат. Авториз�
 `React`, `REST API`, `TypeScript`
 👉 [Код на GitHub](https://github.com/olenkachovgun/Image-search-TypeScript)
 
+## ⌚ [WatchCharm](https://olenkachovgun.github.io/watchcharm/)
+Веб-сайт для магазина годинників.  
+`HTML`, `CSS`, `JS`, `Responsive Design`, `Vite`
+👉 [Код на GitHub](https://github.com/olenkachovgun/watchcharm)
+
+## 🎨 [WebStudio](https://olenkachovgun.github.io/goit-markup-hw-06/)
+Веб-сайт для вигаданої студії.  
+`HTML`, `CSS`, `Responsive Design`. 
+👉 [Код на GitHub](https://github.com/olenkachovgun/goit-markup-hw-06)
+
 ---
 ## 📫 Як мене знайти
 
 - 📧 Email: [olenkachovgun@gmail.com](mailto:olenkachovgun@gmail.com)
 - 💼 LinkedIn: [Olena Chovhun](https://www.linkedin.com/in/olena-chovhun-9a554b1b4/)
 - 🗂 Портфоліо: оновлюється...
-
 ---
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olenkachovgun&show_icons=true&theme=radical)
