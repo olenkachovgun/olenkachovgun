@@ -1,8 +1,8 @@
-# Привіт! Я — Олена Човгун 👩‍💻
+# Hi! I`m Olena Chovhun 👩‍💻
 
-💡 Fullstack Developer з бекграундом в IT та освіті. Cтворюю повноцінні web-застосунки з нуля. Маю досвід командної роботи за SCRUM, у ролі розробника та Scrum Master.
+💡 Fullstack Developer with a background in IT and education. I create full-fledged web applications from scratch. I have experience in teamwork using SCRUM, as a developer and Scrum Master.
 
-# 💻 Стек технологій
+# 💻 Technology stack
 
 **🌐 Frontend:**  
 
@@ -12,55 +12,55 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
 
-**🛠️ Інструменти:**
+**🛠️ Tools:**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 
 ----
 
-# 🚀 ПРОЄКТИ
+# 🚀 PROJECTS
 
 ## 💸🧾 [Spendy – Personal Finance Tracker](https://project-5-frontend-pink.vercel.app/login)
-Fullstack застосунок для обліку витрат. Авторизація, додавання транзакцій, статистика.  
+Full Stack expense tracking application. Authorization, adding transactions, statistics.  
 `React`, `Redux`, `Node.js`, `MongoDB`, `Swagger`  
 👉 [Код на GitHub](https://github.com/sonyaaa-h/project-5-frontend)
 
 ## 🚘[RentalCar](https://rental-car-sandy.vercel.app/)
-Фронтенд частиною веб-додатку "RentalCar", призначеного для оренди автомобілів зі зручним інтерфейсом для перегляду доступних автомобілів, їх фільтрації, додавання до обраних та бронювання.
-`React`, Redux Toolkit, `REST API`, `Axios`, `Formik`, `Vite`
+The frontend is part of the "RentalCar" web application, designed for car rental with a user-friendly interface for viewing available cars, filtering them, adding them to favorites, and booking.
+`React`, `Redux Toolkit`, `REST API`, `Axios`, `Formik`, `Vite`
 👉 [Код на GitHub](https://github.com/olenkachovgun/RentalCar)
 
 ## 📖📞 [Phonebook](https://goit-react-hw-08-smoky-ten.vercel.app/)
-Книга Контактів" - веб-застосунок для зручного управління вашими особистими контактами.
-`React`, Redux Toolkit, `REST API`, `Vite`
+"Contact Book" is a web application for convenient management of your personal contacts.
+`React`, `Redux Toolkit`, `REST API`, `Vite`
 👉 [Код на GitHub](https://github.com/olenkachovgun/Phonebook-react)
 
 ## 🎬 [Filmoteka](https://goit-react-hw-05-seven-sable.vercel.app/)
-Пошук фільмів за жанрами та ключовими словами через API  
-`React`, `REST API`, `Axios`, `CSS Modules`,, `Vite`  
+Search for movies by genre and keywords via API. 
+`React`, `REST API`, `Axios`, `CSS Modules`, `Vite`  
 👉 [Код на GitHub](https://github.com/olenkachovgun/goit-react-hw-05-movies)
 
 ## 🎨🖼️ [Image-search App](https://goit-typescript-hw-02-gules-nu.vercel.app/)
-Пошук зображень за ключовими словами через API.
+Search for images by keywords via API.
 `React`, `REST API`, `TypeScript`
 👉 [Код на GitHub](https://github.com/olenkachovgun/Image-search-TypeScript)
 
 ## ⌚ [WatchCharm](https://olenkachovgun.github.io/watchcharm/)
-Веб-сайт для магазина годинників.  
+Website for a watch store.  
 `HTML`, `CSS`, `JS`, `Responsive Design`, `Vite`
 👉 [Код на GitHub](https://github.com/olenkachovgun/watchcharm)
 
 ## 🎨 [WebStudio](https://olenkachovgun.github.io/goit-markup-hw-06/)
-Веб-сайт для вигаданої студії.  
+A website for a fictional studio.  
 `HTML`, `CSS`, `Responsive Design`. 
 👉 [Код на GitHub](https://github.com/olenkachovgun/goit-markup-hw-06)
 
 ---
-## 📫 Як мене знайти
+## 📫 How to find me
 
 - 📧 Email: [olenkachovgun@gmail.com](mailto:olenkachovgun@gmail.com)
 - 💼 LinkedIn: [Olena Chovhun](https://www.linkedin.com/in/olena-chovhun-9a554b1b4/)
-- 🗂 Портфоліо: оновлюється...
+- 🗂 Portfolio: updating...
 ---
 ## 📈 GitHub Stats
 
